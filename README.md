@@ -21,6 +21,13 @@
 7. Pull and run the image
 
 
+--- 
+
+### Setup
+
+1. '`create docker-compose.yml`'
+2. 
+
 
 
 
